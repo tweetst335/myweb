@@ -1,0 +1,31 @@
+[root@ip-172-31-42-158 html]# cat index.html 
+<div style ="text-align:center">
+<h1 style="color:violet"> MY ORDERS</h1>
+<a href="http://myalb24-1524378.ap-northeast-1.elb.amazonaws.com/orders/" target="_blank"><button style ="background-color:pink">ORDERS</button></a>
+<a href="http://myalb24-1524378.ap-northeast-1.elb.amazonaws.com/payments/" target="_blank"><button style ="background-color:green">PAYMENTS</button></a>
+<h2 style="color:red">MY PAYMENTS</h2>
+</div>
+[root@ip-172-31-42-158 html]# 
+
+================================================================
+
+[root@ip-172-31-45-228 html]# cat index.html
+<div style ="text-align:center">
+<h1 style="color:peru"> MY ORDERS</h1>
+<a href="http://myalb24-1753092494.ap-northeast-1.elb.amazonaws.com/orders/" target="_blank"><button style ="background-color:lime">ORDERS</button></a>
+<a href="http://myalb24-1753092494.ap-northeast-1.elb.amazonaws.com/payments/" target="_blank"><button style ="background-color:orange">PAYMENTS</button></a>
+<h2 style="color:teal">MY PAYMENTS</h2>
+</div>
+
+[root@ip-172-31-45-228 html]#
+
+
+
+
+
+
+
+
+
+
+
